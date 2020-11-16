@@ -31,8 +31,8 @@ In our app,'Calendar', users can create calendar events and daily tasks on the g
      - [ ] Week
      - [x] Month
 - [ ] Edit events
-- [ ] Compose a task on the to-do list
-- [ ] Bottom navigation view
+- [x] Compose a task on the to-do list
+- [x] Bottom navigation view
 - [ ] User can mark tasks completed on the to-do list
 
 **Optional Nice-to-have Stories**
