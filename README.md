@@ -120,4 +120,4 @@ In our app,'Calendar', users can create calendar events and daily tasks on the g
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/8GvSmLn.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/DTYjPiB.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
